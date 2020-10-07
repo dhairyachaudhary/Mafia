@@ -1,5 +1,5 @@
 # Mafia
-### A part of Advanced Programming course
+A command-line implementation
 
 ## Plot and Objective
 Mafia is a popular party game that requires one to think, manipulate, and deceive others in order to win. The game is set in a village with 4 types of characters. The village has N players. A player can be either a commoner, a detective, a healer, or a mafia. A commoner only knows that he is a commoner. A detective knows all the other detectives. A mafia knows all the other Mafia players. A healer knows all other healers in the game.

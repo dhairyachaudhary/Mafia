@@ -11,15 +11,19 @@ Once a player is eliminated, they cannot be brought back to life. Mafias cannot 
 
 ## Roles of Players
 **1. Mafia:**
+
 To kill all other players to achieve a 1:1 ratio.
+
 **2. Detective:**
-They can randomly test one of the players (except detective) to test whether
-the player is mafia or not. If they correctly identify a mafia, the caught mafia will be voted
-out in that round by default.
+
+They can randomly test one of the players (except detective) to test whether the player is mafia or not. If they correctly identify a mafia, the caught mafia will be voted out in that round by default.
+
 **3. Healer:** 
-They randomly select a player from the game to give him a boost of 500 HP (All
-players, including mafias and healers themselves).
+
+They randomly select a player from the game to give him a boost of 500 HP (All players, including mafias and healers themselves).
+
 **4. Commoner:**
+
 They don’t have any special role. They only take part in the voting process.
 
 ## Gameplay
